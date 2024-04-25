@@ -8,5 +8,15 @@ This study examines the design processes of the Deep Learning FPGA placer, DREAM
 
 # Table of Contents
 - [CPP-ECE-FPGA-PLACEMENT-AND-LEGALIZATION](#eda-ml)
-- [Table of Contents](#table-of-contents)
-- [Tutorial - DEPRECATED](#tutorial---deprecated)
+  - [Table of Contents](#table-of-contents)
+  - [About](#About)
+  - [DREAMPlaceFPGA Placement Flow and Methodology](#DREAMPlaceFPGA-Placement-Flow-and-Methodology)
+  - [Tutorials](#Tutorials)
+
+# About
+
+
+# DREAMPlaceFPGA Placement Flow and Methodology
+
+
+# Tutorials
