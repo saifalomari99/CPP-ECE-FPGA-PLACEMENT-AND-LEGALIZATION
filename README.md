@@ -24,6 +24,6 @@ This study examines the design processes of the Deep Learning FPGA placer, DREAM
 # DREAMPlaceFPGA Placement Flow and Methodology
 
 - Reference Flow
-<img src='./images/HW_FAB_VER.png' width='500'>
+<img src='./images/HW_FAB_VER.png' width='450'>
 
 # Tutorials
